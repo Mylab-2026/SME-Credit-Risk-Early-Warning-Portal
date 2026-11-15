@@ -1,1 +1,0 @@
-# SME-Credit-Risk-Early-Warning-Portal
